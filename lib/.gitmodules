@@ -1,0 +1,47 @@
+[submodule "433Utils"]
+path = 433Utils
+url = git://github.com/ninjablocks/433Utils.git 
+
+[submodule "derekstavis"]
+path = python/derekstavis/python-sysfs-gpio
+url = https://github.com/derekstavis/python-sysfs-gpio
+
+[submodule "duxingkei33"]
+path = python/duxingkei33/orangepi_PC_gpio_pyH3
+url = https://github.com/duxingkei33/orangepi_PC_gpio_pyH3.git
+
+[submodule "kylemanna"]
+path = python/kylemanna/pydevmem
+url = https://github.com/kylemanna/pydevmem/
+
+[submodule "vitiral"]
+path = python/vitiral/gpio
+url = https://github.com/vitiral/gpio
+
+[submodule "vsergeev"]
+path = python/vsergeev/python-periphery
+url = https://github.com/vsergeev/python-periphery
+
+[submodule "flexiti-h3"]
+path = WiringOP/flexiti-h3/WiringOP
+url = https://github.com/flexiti/WiringOP.git
+
+[submodule "kazukioishi-h5"]
+path = WiringOP/kazukioishi-h5/WiringOP
+url = https://github.com/kazukioishi/WiringOP.git
+
+[submodule "loboris-h3"]
+path = WiringOP/loboris-h3/WiringOP
+url = https://github.com/loboris/WiringOP.git
+
+[submodule "OrangePiLibra-RDA8810"]
+path = WiringOP/OrangePiLibra-RDA8810/WiringPi
+url = https://github.com/OrangePiLibra/WiringPi.git
+
+[submodule "xpertsavenue-zero"]
+path = WiringOP/xpertsavenue-zero/WiringOP-Zero
+url = https://github.com/xpertsavenue/WiringOP-Zero.git
+
+[submodule "zhaolei-h3"]
+path = WiringOP/zhaolei-h3/WiringOP
+url = https://github.com/zhaolei/WiringOP.git
