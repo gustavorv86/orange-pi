@@ -11,9 +11,5 @@ def main() :
 		# convert read to hex
 		print("Length: (" + str(read) + "): " + read)
 
-
-
-
-
-
-main()
+if __name__ == "__main__":
+	main()
